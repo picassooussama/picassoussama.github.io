@@ -1,0 +1,39 @@
+body{
+    background-image: url(HDR_029_Sky_Cloudy_Bg.jpg);
+    background-repeat: no-repeat;
+}
+.my-image {
+    border: 2px solid #000; /* black border */
+    border-radius: 15px; /* rounded corners */
+    position: right top;
+  }
+
+
+h1{
+    color:brown;
+    font: size 50px;
+    background-image: url(https://media1.giphy.com/media/efekGoJMGlbpolOC1F/giphy.gif?cid=6c09b9521tp8dtc1lvvrx9vbj66epp66ad3e93p3dnlr9nnx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+h2{
+    color:rgb(61, 216, 0)
+
+}
+.p_about{
+    color: blue
+}
+#oussama{
+    color:blueviolet
+}
+input[type="text"]{
+    background: red;
+}
+input[type="submit"]{
+    border: 3px solid rebeccapurple;
+    color: blue;
+    background: yellowgreen;
+    height: 100px;
+    width: 500px;
+    opacity: 0.8 ;
+}
